@@ -1,16 +1,19 @@
 # ticket_app
 
-A new Flutter project.
+This app is made with flutter in which you can book ticket for flights and hotels.
 
-## Getting Started
+## Home Screen
 
-This project is a starting point for a Flutter application.
+![1](https://github.com/user-attachments/assets/b9f32aa7-004a-40dc-aa2f-221f275cd46b)
 
-A few resources to get you started if this is your first Flutter project:
+## Search ticket 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![2](https://github.com/user-attachments/assets/3e8c8c86-16ca-485e-a2aa-f18628c3b2a1)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Ticekts Screen
+
+![3](https://github.com/user-attachments/assets/a0e113e7-e5cf-460e-ae82-1ff073856f06)
+
+## Profile Screen
+
+![4](https://github.com/user-attachments/assets/fcd6b0c3-e8b6-4967-9f41-465269cabcad)
